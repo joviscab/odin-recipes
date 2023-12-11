@@ -4,7 +4,7 @@
 
 Hello, my name is Joviscab and this is the beginning of my learning to code journey!
 
-This is the first project called Recipes, that is part of the Foundations Course of The Odin Project. The idea of this project is to put to practice all the HTML knowledge that I have acquired until now. In this project i am going to build a basic recipe website, using the amazing recipes of my mom! Thewebsite will consist of a main index page which will have links to a few recipes.
+This is the first project called Recipes, that is part of the Foundations Course of The Odin Project. The idea of this project is to put to practice all the HTML knowledge that I have acquired until now. In this project i am going to build a basic recipe website, using the amazing recipes of my mom S2! The website will consist of a main index page which will have links to a few recipes.
 
 ## Skills
 
