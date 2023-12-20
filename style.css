@@ -1,20 +1,56 @@
+
 h1 {
-    color: black;
-    background-color: darkgrey;
-    font-family: Verdana, sans-serif;
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 45px;
     text-align: center;
     font-weight: 900;
-    border: 2px solid red;
 }
 
 .list {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 25px;
     text-align: center;
-    border: 2px solid red;
+    list-style: none;
+}
+
+.bread {
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: white;
+    background-color:maroon;
+    display: inline-block;
+}
+
+.cake {
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: white;
+    background-color:maroon;
+    display: inline-block;
+}
+
+.brigadeiro {
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: white;
+    background-color:maroon;
+    display: inline-block;
+}
+
+.recipecard {
+    width: 400 px;
+    text-align: center;
+    background-color:burlywood ;
+    border: 2px solid rgb(185, 104, 104);
+    margin: 20px auto;
+    max-width: 600px;
 }
 
 a {
     text-decoration: none;
+    color:bisque
 }
